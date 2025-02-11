@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    margin: 20px;
+}
+p{
+    padding-top: 15px;
+}
+code{
+    color: rgba(255, 0, 0, 0.633);
+    background-color: rgba(232, 234, 234, 0.363);
+}
+.center{
+  text-align: center;
+    border: 3px solid green;
+    padding: 10px;
+    width: 50%;
+    margin: 20px;
+}
+
+.code-box{
+    background-color: #f2f2f2;
+    padding: 10px;
+    width: 60%;
+    
+}
+.box{
+    border-left: 4px solid rgb(24, 205, 24);
+    background-color: white;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+ .button {
+    display: inline-block;
+    background-color: rgb(21, 145, 21);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 10px;
+}

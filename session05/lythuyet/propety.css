@@ -1,0 +1,23 @@
+/*
+reset CSS
+đưa CSS về trạng thái mặc định 
+ */
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+div{
+    background-color: greenyellow;
+    /* width: 200px; */
+    height: 100px;
+    color: white;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    border: 5px solid red;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 100px;
+    letter-spacing: 5px;
+}

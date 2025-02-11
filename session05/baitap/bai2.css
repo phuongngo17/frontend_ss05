@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+.footer {
+    color: rgb(13, 241, 13);
+    text-decoration: underline dotted rgb(13, 241, 13);
+}

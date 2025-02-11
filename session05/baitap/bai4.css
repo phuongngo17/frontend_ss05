@@ -1,0 +1,45 @@
+ body {
+     font-family: Arial, sans-serif;
+     margin: 0;
+     padding: 0;
+
+ }
+
+ .container {
+     display: flex;
+     background: white;
+     width: 800px;
+     margin: 20px auto;
+ }
+
+ .image {
+     width: 40%;
+ }
+
+ .image img {
+     width: 300px;
+     height: 200px;
+
+ }
+
+ .content {
+     padding: -10px;
+     width: 60%;
+ }
+
+ .content h2 {
+     margin: 0;
+     font-size: 20px;
+     color: #222;
+ }
+
+ .meta {
+     color: #666;
+     font-size: 14px;
+     margin: 8px 0;
+ }
+
+ .description {
+     font-size: 16px;
+     color: #444;
+ }
